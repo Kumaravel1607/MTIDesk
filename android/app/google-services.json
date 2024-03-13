@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185172308483",
+    "project_id": "mtidesk-21fe8",
+    "storage_bucket": "mtidesk-21fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185172308483:android:804a670d48676a81d79436",
+        "android_client_info": {
+          "package_name": "com.mti.mtidesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185172308483-sv76ebkvsub8drjih3pbil7rv2su4s62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvGDGYk70NkdFFvEtGqN5-r_UkNfDcws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185172308483-sv76ebkvsub8drjih3pbil7rv2su4s62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
